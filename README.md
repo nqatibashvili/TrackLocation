@@ -1,9 +1,9 @@
 # TrackLocation
-Phonenumbers Python Library: https://pypi.org/project/phonenumbers/
-OpenCage Geocoding Module for Python: https://pypi.org/project/opencage/
-OpenCage Geocoding API: https://opencagedata.com/
-Folium: https://pypi.org/project/folium/
-PyCharm (Code Editor): https://www.jetbrains.com/pycharm/
+*Phonenumbers Python Library: https://pypi.org/project/phonenumbers/
+*OpenCage Geocoding Module for Python: https://pypi.org/project/opencage/
+*OpenCage Geocoding API: https://opencagedata.com/
+*Folium: https://pypi.org/project/folium/
+*PyCharm (Code Editor): https://www.jetbrains.com/pycharm/
 
  Track Phone Number Location Using Python
  Create Python Project Directory
